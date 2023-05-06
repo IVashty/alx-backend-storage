@@ -1,4 +1,4 @@
---create trigger that triggers that resets the attrinute valid_email only when the email has been changed.
+-- create trigger that triggers that resets the attrinute valid_email only when the email has been changed.
 DELIMITER //
 CREATE TRIGGER reset_email
 BEFORE UPDATE ON users
