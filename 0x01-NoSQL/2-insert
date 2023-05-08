@@ -1,0 +1,3 @@
+// create a collection and insert into it.
+createCollection(school,my_db)
+insertOne(name:"Holberton school",)
