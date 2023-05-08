@@ -1,2 +1,2 @@
 // lists all documents in a specified collection
-db.school.match({name="Holberton school"})
+db.school.match({name:"Holberton school"})
